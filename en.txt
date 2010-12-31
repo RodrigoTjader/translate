@@ -29,7 +29,7 @@ reverse-search=reverse search
 pay=pay
 free=free
 results=uses results from
-results2     results from
+results2=results from
 topic=no right topic?
 topics=some topics grouped into
 topics2=more topics
