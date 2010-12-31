@@ -1,60 +1,60 @@
-carfax	vehicle info
-map	map
-search	search
-search2	try search on
-uses	uses our
-syntax	syntax
-more	more at
-more2	more
-top	top
-official	official site
-password	random password
-number	random number
-random	random
-entry	entry in
-web	web links
-web2	try web links
-mean	can mean different things
-meant	click what you meant by
-meanings	meanings
-meanings2	some meanings
-dictionary	dictionary
-package	shipment tracking
-ip-go	try to go there
-parked-domain	is a parked domain (last time we checked).
-area-code	is an area code in
-zip-code	is a zip code in
-phone-number	is a phone number in
-reverse-search	reverse search
-pay	pay
-free	free
-results	uses results from
+carfax=vehicle info
+map=map
+search=search
+search2=try search on
+uses=uses our
+syntax=syntax
+more=more at
+more2=more
+top=top
+official=official site
+password=random password
+number=random number
+random=random
+entry=entry in
+web=web links
+web2=try web links
+mean=can mean different things
+meant=click what you meant by
+meanings=meanings
+meanings2=some meanings
+dictionary=dictionary
+package=shipment tracking
+ip-go=try to go there
+parked-domain=is a parked domain (last time we checked).
+area-code=is an area code in
+zip-code=is a zip code in
+phone-number=is a phone number in
+reverse-search=reverse search
+pay=pay
+free=free
+results=uses results from
 results2     results from
-topic	no right topic?
-topics	some topics grouped into
-topics2	more topics
-topics3	topics
-sections	grouped into sections
-and	and
-links	more links
-related	related topics
-related2	more related topics
-at	at
-ignore	ignore this box please
-put	put search terms here
-settings	settings
-goodies	goodies
-spread	spread
-add	add to
-region	from any region
-ducky	I'm feeling ducky
-sort	sort by date
-popular	popular
-programming	programming
-images	images
-news	news
-zero	zero-click info
-requires	this page requires
-version	get the non-JS version
-here	here
-category	category
+topic=no right topic?
+topics=some topics grouped into
+topics2=more topics
+topics3=topics
+sections=grouped into sections
+and=and
+links=more links
+related=related topics
+related2=more related topics
+at=at
+ignore=ignore this box please
+put=put search terms here
+settings=settings
+goodies=goodies
+spread=spread
+add=add to
+region=from any region
+ducky=I'm feeling ducky
+sort=sort by date
+popular=popular
+programming=programming
+images=images
+news=news
+zero=zero-click info
+requires=this page requires
+version=get the non-JS version
+here=here
+category=category
